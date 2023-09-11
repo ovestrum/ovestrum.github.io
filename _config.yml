@@ -1,4 +1,4 @@
-title: ovestrum
+title: ovestrum.github.io
 description: A ovestrum page
 theme: just-the-docs
 
@@ -6,4 +6,4 @@ url: https://ovestrum.github.io
 color_scheme: dark
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repositories: https://github.com/ovestrum
