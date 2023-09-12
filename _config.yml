@@ -5,8 +5,8 @@ theme: just-the-docs
 url: https://ovestrum.github.io
 color_scheme: dark
 
-logo: "/favicon-32x32.png"
-favicon: "/_assets/images/favicon-32x32.png"
+#logo: "/favicon-32x32.png"
+#favicon: "/_assets/images/favicon-32x32.png"
 
 aux_links:
   Github: https://github.com/ovestrum
