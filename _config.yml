@@ -6,7 +6,7 @@ url: https://ovestrum.github.io
 color_scheme: dark
 
 logo: "/assets/images/cv.png"
-#favicon: "/_assets/images/favicon-32x32.png"
+favicon: "/assets/images/favicon-32x32.png"
 
 aux_links:
   Github: https://github.com/ovestrum
