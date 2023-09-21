@@ -3,6 +3,7 @@ title: Home
 layout: home
 ---
 <h1> Ole Vestrum </h1>
+
 {: .warning }
 ovestrum@protonmail.com
 https://www.ovestrum.no
