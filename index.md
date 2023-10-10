@@ -5,7 +5,7 @@ layout: home
 <h1> Ole Vestrum </h1>
 
 {: .warning }
-[Personal E-mail]
+[Personal email]
 `https://www.ovestrum.no`
 [Google Scholar]
 
