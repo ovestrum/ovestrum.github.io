@@ -7,7 +7,9 @@ layout: home
 {: .warning }
 `ovestrum@protonmail.com`
 `https://www.ovestrum.no`
+[Google Scholar]
 
+[Google Scholar]: https://scholar.google.no/citations?user=6VJbdkoAAAAJ&hl=no
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
