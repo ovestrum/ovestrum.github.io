@@ -6,10 +6,11 @@ layout: home
 
 {: .warning }
 [Personal email]
-`https://www.ovestrum.no`
+[Personal website]
 [Google Scholar]
 
-[Personal E-mail]: ovestrum@protonmail.com
+[Personal website]: https://www.ovestrum.no
+[Personal email]: ovestrum@protonmail.com
 [Google Scholar]: https://scholar.google.no/citations?user=6VJbdkoAAAAJ&hl=no
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
