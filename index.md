@@ -10,7 +10,7 @@ layout: home
 [Google Scholar]
 
 [Personal website]: https://www.ovestrum.no
-[Personal email]: ovestrum@protonmail.com
+[Personal email]: mailto:ovestrum@protonmail.com
 [Google Scholar]: https://scholar.google.no/citations?user=6VJbdkoAAAAJ&hl=no
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
