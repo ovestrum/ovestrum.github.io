@@ -5,10 +5,11 @@ layout: home
 <h1> Ole Vestrum </h1>
 
 {: .warning }
-`ovestrum@protonmail.com`
+[Personal E-mail]
 `https://www.ovestrum.no`
 [Google Scholar]
 
+[Personal E-mail]: ovestrum@protonmail.com
 [Google Scholar]: https://scholar.google.no/citations?user=6VJbdkoAAAAJ&hl=no
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
