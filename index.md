@@ -5,12 +5,12 @@ layout: home
 <h1> Ole Vestrum </h1>
 
 {: .warning }
-[Personal email]
+[E-mail]
 [Personal website]
 [Google Scholar]
 
 [Personal website]: https://www.ovestrum.no
-[Personal email]: mailto:ovestrum@protonmail.com
+[E-mail]: mailto:ovestrum@protonmail.com
 [Google Scholar]: https://scholar.google.no/citations?user=6VJbdkoAAAAJ&hl=no
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
