@@ -9,6 +9,5 @@ layout: home
 [Personal website]
 [Google Scholar]
 
-[Personal website]: ovestrum.no
 [E-mail]: mailto:ovestrum@protonmail.com
 [Google Scholar]: https://scholar.google.no/citations?user=6VJbdkoAAAAJ&hl=no
