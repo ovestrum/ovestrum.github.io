@@ -4,7 +4,7 @@ layout: home
 ---
 <h1> Ole Vestrum </h1>
 
-{: .highlight }
+{: .highlight}
 [E-mail]
 [Google Scholar]
 
