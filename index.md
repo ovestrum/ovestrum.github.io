@@ -9,4 +9,5 @@ This is just a mere landing page. Check out the resources in the box below or co
 [Google Scholar] [LinkedIn]
 
 [Google Scholar]: https://scholar.google.no/citations?user=6VJbdkoAAAAJ&hl=no
+
 [LinkedIn]: http://linkedin.com/in/ovestrum
