@@ -6,7 +6,6 @@ layout: home
 
 {: .warning }
 [E-mail]
-[Personal website]
 [Google Scholar]
 
 [E-mail]: mailto:ovestrum@protonmail.com
