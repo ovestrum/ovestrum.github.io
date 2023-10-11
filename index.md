@@ -8,5 +8,5 @@ layout: home
 [E-mail]
 [Google Scholar]
 
-[E-mail]: mailto:ovestrum@protonmail.com
 [Google Scholar]: https://scholar.google.no/citations?user=6VJbdkoAAAAJ&hl=no
+[E-mail]: {mailto:ovestrum@protonmail.com}
